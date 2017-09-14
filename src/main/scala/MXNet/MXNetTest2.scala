@@ -1,7 +1,7 @@
 /**
   * Created by afshin on 02.09.17.
   */
-package net.MXNet
+package MXNet
 
 import ml.dmlc.mxnet._
 import ml.dmlc.mxnet.optimizer.SGD
