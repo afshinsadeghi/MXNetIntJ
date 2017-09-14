@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mxnetsana.iml" filepath="$PROJECT_DIR$/.idea/modules/mxnetsana.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mxnetsana-build.iml" filepath="$PROJECT_DIR$/.idea/modules/mxnetsana-build.iml" />
     </modules>
   </component>
 </project>
